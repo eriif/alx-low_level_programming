@@ -1,8 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
+
 /*
- * main - program that prints the alphabet in lowercase, and then in uppercase
+ * main - entry point of the program
  * Return: Always 0 (success)
  */
 

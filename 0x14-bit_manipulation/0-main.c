@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - check the code
- * Return: Always 0.
- */
+* main - check the code
+* Return: Always 0.
+**/
 int main(void)
 {
-	unsigned int n;
+unsigned int n;
 
 	n = binary_to_uint("1");
 	printf("%u\n", n);
@@ -18,5 +18,5 @@ int main(void)
 	printf("%u\n", n);
 	n = binary_to_uint("0000000000000000000110010010");
 	printf("%u\n", n);
-	return (0);
+return (0);
 }

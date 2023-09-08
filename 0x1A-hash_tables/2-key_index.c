@@ -1,4 +1,4 @@
-#include "hash_t.h"
+#include "hash_tables.h"
 
 /**
  * key_index - Get the index at which a key/value
